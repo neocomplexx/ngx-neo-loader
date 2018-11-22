@@ -16,6 +16,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-neo-loader": [
+        "dist/ngx-neo-loader"
+      ],
+      "ngx-neo-loader/*": [
+        "dist/ngx-neo-loader/*"
+      ]
+    }
   }
 }

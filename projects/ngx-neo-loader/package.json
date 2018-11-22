@@ -1,0 +1,21 @@
+{
+  "name": "ngx-neo-loader",
+  "version": "7.0.0",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  },
+  "author": {
+    "name": "NeoComplexx",
+    "email": "info@neocomplexx.com"
+  },
+  "keywords": [
+    "Angular",
+    "Loader",
+    "Library",
+    "Componet",
+    "SCSS",
+    "NeoComplexx"
+  ],
+  "license": "MIT"
+}

@@ -1,5 +1,5 @@
 {
-  "name": "ngx-neo-loader",
+  "name": "@neocomplexx/ngx-neo-loader",
   "version": "7.0.0",
   "peerDependencies": {
     "@angular/common": "^7.0.0",
@@ -8,6 +8,13 @@
   "author": {
     "name": "NeoComplexx",
     "email": "info@neocomplexx.com"
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/neocomplexx/ngx-neo-loader"
+  },
+  "bugs": {
+    "url": "https://github.com/neocomplexx/ngx-neo-loader/issues"
   },
   "keywords": [
     "Angular",

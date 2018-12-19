@@ -11,7 +11,7 @@
             "url": "http://localhost:4200",
             "webRoot": "${workspaceFolder}",
             "sourceMapPathOverrides": {
-                "webpack:///ng://ngx-neo-loader/lib/*": "${workspaceFolder}/projects/ngx-neo-loader/src/lib/*"
+                "webpack:///ng://@neocomplexx/ngx-neo-loader/lib/*": "${workspaceFolder}/projects/ngx-neo-loader/src/lib/*"
             },
             
         },

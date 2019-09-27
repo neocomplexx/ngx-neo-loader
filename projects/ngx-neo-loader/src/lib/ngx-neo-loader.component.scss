@@ -3,7 +3,6 @@
 	height: 100vh !important;
 	position: fixed !important;
   overflow: hidden !important;
-	background-color: rgba(0, 0, 0, 0.35) !important;
   display: flex !important;
 	z-index: 10000 !important;
 }
@@ -45,7 +44,7 @@
 .path {
   stroke-dasharray: 1, 200;
   stroke-dashoffset: 0;
-  stroke: #fff;
+  stroke: rgba(0, 0, 0, 0.35) !important;
   animation: dash 1.5s ease-in-out infinite;
   stroke-linecap: round;
 }

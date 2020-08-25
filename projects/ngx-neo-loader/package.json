@@ -1,9 +1,9 @@
 {
   "name": "@neocomplexx/ngx-neo-loader",
-  "version": "7.0.2",
+  "version": "9.0.1",
   "peerDependencies": {
-    "@angular/common": "^7.0.0",
-    "@angular/core": "^7.0.0"
+    "@angular/common": "~9.1.9",
+    "@angular/core": "~9.1.9"
   },
   "author": {
     "name": "NeoComplexx",
